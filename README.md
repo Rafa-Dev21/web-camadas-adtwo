@@ -153,7 +153,7 @@ Após finalizar todas as configurações o Render realizou o deploy da API com s
 
 ## Teste da API hospedada
 
-Após o deploy realizei testes utilizando navegador e Insomnia para verificar o funcionamento das rotas da API.
+Após o deploy realizei testes utilizando navegador e Thunder Client para verificar o funcionamento das rotas da API.
 
 <img width="986" height="708" alt="image" src="https://github.com/user-attachments/assets/8b87a058-9fef-41d7-9313-fe5957c30496" />
 
